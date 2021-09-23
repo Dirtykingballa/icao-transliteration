@@ -1,6 +1,6 @@
 {
   "name": "icao-transliteration",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Transliterates a String in ICAO(MRTD) format  ",
   "main": "icaotransliteration.js",
   "scripts": {
