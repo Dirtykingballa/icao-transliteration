@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Dirtykingballa/icao-transliteration.git"
   },
   "author": "Dirtykigballa",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Dirtykingballa/icao-transliteration/issues"
   },
