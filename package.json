@@ -1,0 +1,22 @@
+{
+  "name": "icao-transliteration",
+  "version": "1.0.3",
+  "description": "Transliterates a String in ICAO(MRTD) format  ",
+  "main": "icaotransliteration.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirtykingballa/icao-transliteration.git"
+  },
+  "author": "Dirtykigballa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirtykingballa/icao-transliteration/issues"
+  },
+  "homepage": "https://github.com/Dirtykingballa/icao-transliteration#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
