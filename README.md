@@ -1,7 +1,7 @@
 
 # icaotransliteration.js
 
-Simple library to transliterate strings to ICAO characters. Compare [https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf](https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf)
+Simple library to transliterate strings to ICAO characters. Compare [https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf)
 
 ## Install
 
@@ -54,4 +54,4 @@ _.extend(icaotransliteration.characters,
 
 ## Details
 
-Is is a lookup table taken from [https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf](https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf) packaged for node and browser.
+Is is a lookup table taken from [https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf) packaged for node and browser.
